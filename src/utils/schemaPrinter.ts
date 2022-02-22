@@ -29,7 +29,7 @@ import {
   GraphQLInputField,
   GraphQLField,
 } from 'graphql/type/definition';
-import { astFromValue } from 'graphql/utilities/astFromValue';
+import { astFromValue } from './astFromValue';
 
 import { SchemaComposer } from '../SchemaComposer';
 import { SchemaFilterTypes, getTypesFromSchema, getDirectivesFromSchema } from './getFromSchema';
