@@ -1,9 +1,10 @@
 {
   "name": "graphql-compose",
-  "version": "0.0.0-semantically-released",
+  "version": "0.0.1",
   "description": "GraphQL schema builder from different data sources with middleware extensions.",
   "files": [
-    "lib"
+    "lib",
+    "src"
   ],
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
