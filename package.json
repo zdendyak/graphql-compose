@@ -5,7 +5,7 @@
   "files": [
     "lib",
     "src",
-    "tsconfig.build.json"
+    "tsconfig.*"
   ],
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
