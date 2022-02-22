@@ -4,7 +4,8 @@
   "description": "GraphQL schema builder from different data sources with middleware extensions.",
   "files": [
     "lib",
-    "src"
+    "src",
+    "tsconfig.build.json"
   ],
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
