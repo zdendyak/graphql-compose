@@ -1,7 +1,7 @@
 {
   "name": "or-graphql-compose",
   "version": "0.0.1",
-  "description": "GraphQL schema builder from different data sources with middleware extensions.",
+  "description": "GraphQL schema builder from different data sources with middleware extensions. Extended version of the graphql-compose package",
   "files": [
     "lib"
   ],
