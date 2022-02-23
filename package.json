@@ -1,5 +1,5 @@
 {
-  "name": "graphql-compose",
+  "name": "or-graphql-compose",
   "version": "0.0.1",
   "description": "GraphQL schema builder from different data sources with middleware extensions.",
   "files": [
@@ -11,7 +11,7 @@
   "types": "lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/graphql-compose/graphql-compose.git"
+    "url": "https://github.com/zdendyak/graphql-compose.git"
   },
   "keywords": [
     "graphql",
@@ -19,9 +19,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/graphql-compose/graphql-compose/issues"
+    "url": "https://github.com/zdendyak/graphql-compose/issues"
   },
-  "homepage": "https://github.com/graphql-compose/graphql-compose",
+  "homepage": "https://github.com/zdendyak/graphql-compose",
   "peerDependencies": {
     "graphql": "^14.2.0 || ^15.0.0 || ^16.0.0"
   },
